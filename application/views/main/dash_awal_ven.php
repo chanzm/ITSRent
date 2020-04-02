@@ -1,0 +1,1 @@
+<img src="http://localhost/ITSRent/assets/image/dash_vendor.png">
